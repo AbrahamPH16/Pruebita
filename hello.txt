@@ -1,1 +1,1 @@
-Hola este es un docu,emto para probar git
+Hola este es un documento para probar git y probar la tecnologia 
