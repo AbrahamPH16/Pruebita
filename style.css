@@ -15,4 +15,11 @@ div{
 #soy-especial{
     background-color: blueviolet;
 }
-    
+.p-c{
+    color: white;
+}
+#b-r{
+    background-color: black;
+    color: white;
+    margin-left: 95px;
+}
